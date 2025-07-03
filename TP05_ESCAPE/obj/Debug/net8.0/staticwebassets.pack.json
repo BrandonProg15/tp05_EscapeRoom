@@ -1,0 +1,121 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\Thumbs.db",
+      "PackagePath": "staticwebassets\\img\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\codigo.png",
+      "PackagePath": "staticwebassets\\img\\codigo.png"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\creditos.jpg",
+      "PackagePath": "staticwebassets\\img\\creditos.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\desactivar.png",
+      "PackagePath": "staticwebassets\\img\\desactivar.png"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\fondo.avif",
+      "PackagePath": "staticwebassets\\img\\fondo.avif"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\fondo.jpg",
+      "PackagePath": "staticwebassets\\img\\fondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\nucleo.png",
+      "PackagePath": "staticwebassets\\img\\nucleo.png"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\sopa.png",
+      "PackagePath": "staticwebassets\\img\\sopa.png"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\img\\sudoku.jpg",
+      "PackagePath": "staticwebassets\\img\\sudoku.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\48801824\\Downloads\\TP05_ESCAPE\\TP05_ESCAPE\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TP05_ESCAPE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TP05_ESCAPE.props",
+      "PackagePath": "build\\TP05_ESCAPE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TP05_ESCAPE.props",
+      "PackagePath": "buildMultiTargeting\\TP05_ESCAPE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TP05_ESCAPE.props",
+      "PackagePath": "buildTransitive\\TP05_ESCAPE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

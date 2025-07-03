@@ -1,0 +1,11 @@
+4<h1>Ingreso Al Laboratorio</h1>
+  <img src = "~/img/sopa.png" id = "sopa"/>
+  <h3 class = "h3sopa"> Al ingresar al laboratorio, encuentran un mensaje cifrado protegido por un enigma digital. 
+   Para acceder al código maestro de CÓDEX, deben encontrar las palabras clave ocultas en esta sopa de letras.
+   Solo así podrán avanzar y seguir con la misión. <br> <br> Encuentra las palabras en la sopa y formá una palabra con las iniciales.</h3>
+<div class = "formsu">
+   <form method="post" action='@Url.Action("ResolverSala", "Home")'>
+    <input type="text" name="respuesta" required/>
+    <input type="submit" value="Escribir Palabra" />
+</form>
+</div>

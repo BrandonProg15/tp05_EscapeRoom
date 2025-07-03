@@ -1,0 +1,199 @@
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.staticwebassets.runtime.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.exe
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.deps.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.runtimeconfig.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.pdb
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.AssemblyReference.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfoInputs.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfo.cs
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.CoreCompileInputs.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cs
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.sourcelink.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.TP05_ESCAPE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\scopedcss\bundle\TP05_ESCAPE.styles.css
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESC.8E4E9CD2.Up2Date
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\refint\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.pdb
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.genruntimeconfig.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\ref\TP05_ESCAPE.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.Development.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.staticwebassets.runtime.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.exe
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.deps.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.runtimeconfig.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.pdb
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Newtonsoft.Json.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.AssemblyReference.cache
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfoInputs.cache
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfo.cs
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.CoreCompileInputs.cache
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.MvcApplicationPartsAssemblyInfo.cache
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cache
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cs
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.sourcelink.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.build.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.development.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.TP05_ESCAPE.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05_ESCAPE.props
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05_ESCAPE.props
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05_ESCAPE.props
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\scopedcss\bundle\TP05_ESCAPE.styles.css
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESC.8E4E9CD2.Up2Date
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\refint\TP05_ESCAPE.dll
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.pdb
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.genruntimeconfig.cache
+Z:\PROG2025\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\ref\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.staticwebassets.runtime.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.exe
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.deps.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.runtimeconfig.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.pdb
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.AssemblyReference.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfoInputs.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfo.cs
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.CoreCompileInputs.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cs
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.sourcelink.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.TP05_ESCAPE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\scopedcss\bundle\TP05_ESCAPE.styles.css
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESC.8E4E9CD2.Up2Date
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\refint\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.pdb
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.genruntimeconfig.cache
+C:\Users\48801824\Downloads\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\ref\TP05_ESCAPE.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.Development.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\appsettings.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.staticwebassets.runtime.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.exe
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.deps.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.runtimeconfig.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.pdb
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\Newtonsoft.Json.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.AssemblyReference.cache
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.GeneratedMSBuildEditorConfig.editorconfig
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfoInputs.cache
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfo.cs
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.CoreCompileInputs.cache
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.MvcApplicationPartsAssemblyInfo.cache
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cache
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cs
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.sourcelink.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.build.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.development.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.TP05_ESCAPE.Microsoft.AspNetCore.StaticWebAssets.props
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05_ESCAPE.props
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05_ESCAPE.props
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05_ESCAPE.props
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.pack.json
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\scopedcss\bundle\TP05_ESCAPE.styles.css
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESC.8E4E9CD2.Up2Date
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\refint\TP05_ESCAPE.dll
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.pdb
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.genruntimeconfig.cache
+Z:\tp05_EscapeRoomPROG (2)\tp05_EscapeRoomPROG\TP05_ESCAPE\obj\Debug\net8.0\ref\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\appsettings.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.staticwebassets.runtime.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.exe
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.deps.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.runtimeconfig.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\TP05_ESCAPE.pdb
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.AssemblyReference.cache
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfoInputs.cache
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.AssemblyInfo.cs
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.csproj.CoreCompileInputs.cache
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cache
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.RazorAssemblyInfo.cs
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.TP05_ESCAPE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.build.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TP05_ESCAPE.props
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\scopedcss\bundle\TP05_ESCAPE.styles.css
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESC.8E4E9CD2.Up2Date
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\refint\TP05_ESCAPE.dll
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.pdb
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\TP05_ESCAPE.genruntimeconfig.cache
+C:\Users\48801824\Downloads\TP05_ESCAPE\TP05_ESCAPE\obj\Debug\net8.0\ref\TP05_ESCAPE.dll

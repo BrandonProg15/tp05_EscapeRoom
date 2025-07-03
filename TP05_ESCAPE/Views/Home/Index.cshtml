@@ -1,8 +1,25 @@
-﻿@{
-    ViewData["Title"] = "Index";
-}
+﻿  <style>
+    body {
+      background-image: url("/img/fondo.jpg");
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+<h1> LOS DEBUGGERS </h1>
+<form action= '@Url.Action("Login", "Home")' method = "POST" enctype = "multipart/form-data"> 
+  Usuario: <input type = "text" name="usuario" required/>
+  contraseña: <input type = "password" name="contraseña" required/>
+  <input type="submit" name="Enviar"/>
+</form>
 
-<div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
+@using (Html.BeginForm("creditos", "Home", FormMethod.Get))
+  {
+    <button type="submit">CREDITOS</button>
+  }
 </div>
+
+
+
